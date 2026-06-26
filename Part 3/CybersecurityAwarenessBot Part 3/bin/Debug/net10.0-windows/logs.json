@@ -1,0 +1,34 @@
+[
+  {
+    "Timestamp": "2026-06-25T12:22:59.225502+02:00",
+    "Action": "User asked chatbot: hello"
+  },
+  {
+    "Timestamp": "2026-06-25T12:23:15.1564429+02:00",
+    "Action": "User asked chatbot: my name is boss p "
+  },
+  {
+    "Timestamp": "2026-06-26T08:14:41.9508214+02:00",
+    "Action": "Quiz answer correct"
+  },
+  {
+    "Timestamp": "2026-06-26T08:57:18.2698077+02:00",
+    "Action": "User asked chatbot: hello my name is Prince "
+  },
+  {
+    "Timestamp": "2026-06-26T08:57:40.8395022+02:00",
+    "Action": "User asked chatbot: i am worried about scams "
+  },
+  {
+    "Timestamp": "2026-06-26T08:58:06.9073657+02:00",
+    "Action": "User asked chatbot: phishing"
+  },
+  {
+    "Timestamp": "2026-06-26T08:58:24.6815845+02:00",
+    "Action": "User asked chatbot: how are you"
+  },
+  {
+    "Timestamp": "2026-06-26T08:58:37.600032+02:00",
+    "Action": "User asked chatbot: exit"
+  }
+]

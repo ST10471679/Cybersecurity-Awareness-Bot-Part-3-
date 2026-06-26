@@ -1,0 +1,19 @@
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3_MarkupCompile.cache
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.g.resources
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.AssemblyInfo.cs
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\bin\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.exe
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\bin\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.deps.json
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\bin\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.runtimeconfig.json
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\bin\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.dll
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\bin\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.pdb
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.dll
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\refint\CybersecurityAwarenessBot Part 3.dll
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.pdb
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\CybersecurityAwarenessBot Part 3.genruntimeconfig.cache
+C:\Users\Student\Documents\Part 3\CybersecurityAwarenessBot Part 3\obj\Debug\net10.0-windows\ref\CybersecurityAwarenessBot Part 3.dll
